@@ -1,0 +1,37 @@
+updown_scale_core.o: \
+ ../../../git_modules/mma/hdl-common/scaler/api/updown_scale_core.cpp \
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h \
+ ../../../git_modules/mma/hdl-common/scaler/api/updown_scale_core.h \
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/lib/gcc/arm-linux-gnueabihf/4.9.2/include/stdint.h \
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/stdint.h \
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/features.h \
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/sys/cdefs.h \
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/bits/wordsize.h \
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/gnu/stubs.h \
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/gnu/stubs-hard.h \
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/bits/wchar.h \
+ ../../../git_modules/mma/hdl-common/scaler/api/updown_scale_wrapper_type.h \
+ ../../../git_modules/mma/hdl-common/scaler/multiviewer/scaler/api/mv_scaler_top_types.h \
+ ../../../git_modules/mma/hdl-common/scaler/multiviewer/scaler/api/mv_scaler_top_consts.h \
+ ../../../git_modules/mma/hdl-common/svn_externals/lib/multiviewer/output/raster_gen/raster_gen_prog/api/raster_gen_prog.h \
+ ../../../git_modules/mma/hdl-common/svn_externals/lib/multiviewer/output/raster_gen/raster_gen_prog/api/raster_gen_prog_consts.h \
+ ../../../git_modules/mma/hdl-common/svn_externals/lib/multiviewer/output/raster_gen/raster_gen_prog/api/raster_gen_prog_reg.h \
+ ../../../git_modules/mma/hdl-common/svn_externals/lib/multiviewer/common/raster/raster_parameters.h
+ ../../../git_modules/mma/hdl-common/scaler/api/updown_scale_core.cpp :
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h :
+ ../../../git_modules/mma/hdl-common/scaler/api/updown_scale_core.h :
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/lib/gcc/arm-linux-gnueabihf/4.9.2/include/stdint.h :
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/stdint.h :
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/features.h :
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/sys/cdefs.h :
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/bits/wordsize.h :
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/gnu/stubs.h :
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/gnu/stubs-hard.h :
+ /import/stargate/tools/xilinx/SDK/2016.1/gnu/aarch32/lin/gcc-arm-linux-gnueabi/arm-linux-gnueabihf/libc/usr/include/bits/wchar.h :
+ ../../../git_modules/mma/hdl-common/scaler/api/updown_scale_wrapper_type.h :
+ ../../../git_modules/mma/hdl-common/scaler/multiviewer/scaler/api/mv_scaler_top_types.h :
+ ../../../git_modules/mma/hdl-common/scaler/multiviewer/scaler/api/mv_scaler_top_consts.h :
+ ../../../git_modules/mma/hdl-common/svn_externals/lib/multiviewer/output/raster_gen/raster_gen_prog/api/raster_gen_prog.h :
+ ../../../git_modules/mma/hdl-common/svn_externals/lib/multiviewer/output/raster_gen/raster_gen_prog/api/raster_gen_prog_consts.h :
+ ../../../git_modules/mma/hdl-common/svn_externals/lib/multiviewer/output/raster_gen/raster_gen_prog/api/raster_gen_prog_reg.h :
+ ../../../git_modules/mma/hdl-common/svn_externals/lib/multiviewer/common/raster/raster_parameters.h :
